@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Memories-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2022-02-27 14:22 UTC\n"
-"PO-Revision-Date: 2022-02-27 17:24+0100\n"
+"PO-Revision-Date: 2022-02-27 18:03+0100\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -233,6 +233,8 @@ msgid ""
 "We lived in peace for centuries, traded, helped each other. Why did you "
 "break it, humans?"
 msgstr ""
+"Po staletí jsme žili v míru, obchodovali, pomáhali se. Proč jste to zničili, "
+"lidé?"
 
 #. [message]: speaker=unit
 #: The_Memories/scenarios/01_The_Begining.cfg:243
@@ -261,7 +263,7 @@ msgstr "A kde je právě teď?"
 #. [message]: speaker=unit
 #: The_Memories/scenarios/01_The_Begining.cfg:259
 msgid "She could be right ... Damn it! She left a few minutes ago!"
-msgstr ""
+msgstr "Měla by být ... Sakra! Před pár minutami odešla."
 
 #. [message]: speaker=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:263
@@ -274,17 +276,18 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Memories/scenarios/01_The_Begining.cfg:267
 msgid "Do you have amnesia, elvish lady?"
-msgstr ""
+msgstr "Máte amnézii, elfí paní?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/01_The_Begining.cfg:271
 msgid "Yes and I have not the slightest idea how to regain my memories."
-msgstr ""
+msgstr "Ano a nemám nejmenší tušení, jak získat zpět své vzpomínky."
 
 #. [message]: speaker=unit
 #: The_Memories/scenarios/01_The_Begining.cfg:275
 msgid "I am sorry but even our wizard can't help you with such an affair."
 msgstr ""
+"To je mi líto, ale ani náš čaroděj Vám nemůže pomoci s takovým problémem."
 
 #. [message]: speaker=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:279
@@ -292,16 +295,18 @@ msgid ""
 "In my childhood I heard about a powerful sylph. She has gained a great power "
 "and none of our enemies wants to visit her part of this forest."
 msgstr ""
+"V dětství jsem slyšel o mocné sylfě. Získala obrovskou sílu a nikdo z našich "
+"nepřátel nechce navštívit její část tohoto lesa."
 
 #. [message]: speaker=unit
 #: The_Memories/scenarios/01_The_Begining.cfg:283
 msgid "It may be a fairy tale only, elf."
-msgstr ""
+msgstr "To je možná jenom pohádka, elfe."
 
 #. [message]: speaker=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:287
 msgid "Maybe it is but it is the only chance for our lady."
-msgstr ""
+msgstr "Možná ano ale je to jediná šance pro naši paní."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/01_The_Begining.cfg:291
@@ -315,11 +320,14 @@ msgid ""
 "beasts. I will send some our people with you, milady. I do not expect anyone "
 "else to attack us in near future."
 msgstr ""
+"Na západě, v samotném srdci tohoto lesa. Ale je tam spousta divokých zvířat. "
+"Pošlu s Vámi nějaké z našich lidí, milostivá paní. Nečekám, že by nás napadl "
+"někdo další v blízké budoucnosti."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/01_The_Begining.cfg:299
 msgid "Thank you ... I suppose that I should set out right now. So farewell."
-msgstr ""
+msgstr "Děkuji ti ... předpokládám, že bych měla hned vyrazit. Takže sbohem."
 
 #. [message]: speaker=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:303
@@ -334,7 +342,7 @@ msgstr "Gioniel"
 #. [message]: speaker=second_unit
 #: The_Memories/scenarios/01_The_Begining.cfg:335
 msgid "I do not like killing others."
-msgstr ""
+msgstr "Nerada zabíjím druhé."
 
 #. [message]: speaker=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:339
@@ -342,11 +350,13 @@ msgid ""
 "Me neither, milady. But we must get to their leader and they are blocking "
 "our way."
 msgstr ""
+"Ani já ne, milostivá paní. Ale musíme se dostat k jejich vůdci a oni nám "
+"stojí v cestě."
 
 #. [message]: speaker=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:351
 msgid "I can see more humans coming. We are doomed."
-msgstr ""
+msgstr "Vidím přicházet více lidí. Jsme ztraceni."
 
 #. [scenario]: id=02_Seeking_the_sylph
 #: The_Memories/scenarios/02_Seeking_the_sylph.cfg:44
@@ -368,7 +378,7 @@ msgstr "Najdi Sylfu"
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/02_Seeking_the_sylph.cfg:117
 msgid "Do you have any idea where could the Sylph live, Gioniel?"
-msgstr ""
+msgstr "Máš nějakou představa, kde by Sylfa mohla žít, Gioniel?"
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/02_Seeking_the_sylph.cfg:121
@@ -377,6 +387,9 @@ msgid ""
 "our people saw her for decades nor we have heard about her. I wonder if she "
 "is still alive ..."
 msgstr ""
+"Nejsem si jistá, milostivá paní. Podle příběhů by měla žít na západě, ale "
+"nikdo z našich lidí ji neviděl celá desetiletí, ani jsme o ní neslyšeli. "
+"Přemýšlím, jestli stále žije ..."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/02_Seeking_the_sylph.cfg:125
@@ -384,6 +397,7 @@ msgid ""
 "She probably is ... she must be. Well, we will find it out soon. Let us head "
 "to the west."
 msgstr ""
+"Nejspíš ano ... musí. No, v každém případě to brzy zjistíme. Pojďme na západ."
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/02_Seeking_the_sylph.cfg:129
@@ -396,7 +410,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/02_Seeking_the_sylph.cfg:143
 msgid "I can feel very strong magic here. It may be the Sylph."
-msgstr ""
+msgstr "Cítím tady velmi silnou magii. Mohla by to být Sylfa."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/02_Seeking_the_sylph.cfg:152
@@ -404,7 +418,7 @@ msgstr ""
 #: The_Memories/scenarios/04b_The_Fruit.cfg:188
 #: The_Memories/scenarios/04c_The_Vase.cfg:175
 msgid "We lost too much time."
-msgstr ""
+msgstr "Ztratili jsem příliš mnoho času."
 
 #. [scenario]: id=03_The_Sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:17
@@ -455,12 +469,15 @@ msgid ""
 "Who comes here? ... Elves? I haven't had any visitors for a long time. Who "
 "are you and what are you doing here?"
 msgstr ""
+"Kdo sem přichází? ... Elfové?  Už dlouho jsem neměla žádnou návštěvu. Kdo "
+"jste a co tady děláte?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/03_The_Sylph.cfg:155
 msgid ""
 "I am Elrilindë and need your help. You may be the only one who can help me."
 msgstr ""
+"Jsem Elrilindë a potřebuji Vaši pomoc. Jste jediná, kdo mi může pomoct."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:159
@@ -472,7 +489,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/03_The_Sylph.cfg:163
 msgid "Of course we will help you. We all want to protect the forest."
-msgstr ""
+msgstr "Samozřejmě Vám pomůžeme. Všichni chceme chránit les."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:167
@@ -482,7 +499,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Memories/scenarios/03_The_Sylph.cfg:209
 msgid "That was the last one."
-msgstr ""
+msgstr "To byl poslední."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:214
@@ -494,7 +511,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/03_The_Sylph.cfg:218
 msgid "I lost all my memories. I did not know who am I."
-msgstr ""
+msgstr "Ztratila jsem všechny své vzpomínky. Nevím, kdo jsem."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:222
@@ -531,7 +548,7 @@ msgstr ""
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:256
 msgid "You can't handle few enemies. You don't deserve my help."
-msgstr ""
+msgstr "Nedokážeš si poradit s pár nepřátele. Nezasloužíš si mou pomoc."
 
 #. [message]: speaker=second_unit
 #: The_Memories/scenarios/03_The_Sylph.cfg:269
@@ -644,7 +661,7 @@ msgstr ""
 #: The_Memories/scenarios/04a_The_Leaf.cfg:184
 #: The_Memories/scenarios/04b_The_Fruit.cfg:174
 msgid "I have found the plant."
-msgstr ""
+msgstr "Našel jsem tu rostlinu."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04a_The_Leaf.cfg:188
@@ -706,22 +723,22 @@ msgstr ""
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04b_The_Fruit.cfg:112
 msgid " But I hope that the Sylph will not send us to the south."
-msgstr ""
+msgstr " Ale doufám, že nás Sylfa nepošle na jih."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04b_The_Fruit.cfg:116
 msgid "What did you whisper, Gioniel?"
-msgstr ""
+msgstr "Co jsi to šeptala, Gioniel?"
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04b_The_Fruit.cfg:120
 msgid "Only that I hope that we will find the plant very soon."
-msgstr ""
+msgstr "Jen že doufám, že rychle najdeme tu rostlinu."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04b_The_Fruit.cfg:124
 msgid "Yes, you are right. We should hurry."
-msgstr ""
+msgstr "Ano, máš pravdu. Měli bychom si pospíšit."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04b_The_Fruit.cfg:178
@@ -770,7 +787,7 @@ msgstr ""
 #. [message]: speaker=unit
 #: The_Memories/scenarios/04c_The_Vase.cfg:205
 msgid "It was the last one."
-msgstr ""
+msgstr "To byl poslední."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04c_The_Vase.cfg:216
@@ -789,7 +806,7 @@ msgstr ""
 #: The_Memories/scenarios/04c_The_Vase.cfg:257
 #: The_Memories/scenarios/04c_The_Vase.cfg:330
 msgid "Wait. Someone is here."
-msgstr ""
+msgstr "Počkat, někdo tady je."
 
 #. [message]: speaker=unit
 #: The_Memories/scenarios/04c_The_Vase.cfg:279
@@ -814,12 +831,12 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04c_The_Vase.cfg:379
 msgid "Who are you? I cannot recognize you."
-msgstr ""
+msgstr "Kdo jsi? Nepoznávám tě."
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04c_The_Vase.cfg:383
 msgid "Yes, it is Elrilindë but she lost all her memories."
-msgstr ""
+msgstr "Ano, je to Elrilindë, ale ztratila všechny své vzpomínky."
 
 #. [message]: speaker=druid
 #. [message]: speaker=Elrilinde
@@ -838,6 +855,7 @@ msgstr "Kdo jsi ale ty?"
 msgid ""
 "She is Tináclya. She used to be our healer until ... until you expelled her."
 msgstr ""
+"To je Tináclya. Byla naší léčitelkou, dokud ... dokud jste ji nevyhnala."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04c_The_Vase.cfg:399
@@ -1054,7 +1072,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:108
 msgid "Here you are the fruit."
-msgstr ""
+msgstr "Tady je to ovoce."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:112
@@ -1062,11 +1080,13 @@ msgid ""
 "Very well but now comes the harder part. You have to go to the south and "
 "bring me a vase."
 msgstr ""
+"Velmi dobře, ale teď přichází ta těžší část. Musíte jít na jih a přinést mi "
+"vázu."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:116
 msgid "A vase? Why do you need it and why is it hard?"
-msgstr ""
+msgstr "Vázu? Proč ji potřebujete a co je na tom tak těžkého?"
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:120
@@ -1075,6 +1095,9 @@ msgid ""
 "need to care about it. Unfortunately there are some monsters in that part of "
 "forest. I think you will have to kill them."
 msgstr ""
+"V té váze je něco, co potřebuji pro rituál, ale o to se nemusíte zajímat. "
+"Bohužel jsou v té části lesa nějaká monstra. Myslím, že je budete muset "
+"zabít."
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:124
@@ -1101,12 +1124,12 @@ msgstr ""
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:144
 msgid "Did you obtain the vase?"
-msgstr ""
+msgstr "Získali jste tu vázu?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:149
 msgid "Yes, here you are. We also killed those creatures."
-msgstr ""
+msgstr "Ano, tady je. Tady jsme zabili ty příšery."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:153
@@ -1199,7 +1222,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:213
 msgid "I will do it. Let us go."
-msgstr ""
+msgstr "Udělám to. Pojďme."
 
 #. [scenario]: id=06_The_Ritual
 #: The_Memories/scenarios/06_The_Ritual.cfg:19
@@ -1224,17 +1247,17 @@ msgstr "Ano."
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/06_The_Ritual.cfg:128
 msgid "You are somehow quiet. What is wrong with you?"
-msgstr ""
+msgstr "Jsi nějak potichu. Co s tebou je?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/06_The_Ritual.cfg:132
 msgid "I have done a bad thing, you know."
-msgstr ""
+msgstr "Udělala jsem něco špatného, však víte."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/06_The_Ritual.cfg:136
 msgid "In a few hours you will regain your memories and everything will be ok."
-msgstr ""
+msgstr "Za pár hodin získáš zpět své vzpomínky a vše bude v pořádku."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/06_The_Ritual.cfg:140
@@ -1247,6 +1270,8 @@ msgid ""
 "But now excuse me. I need absolute peace for preparing the ritual. I will "
 "call you when everything is ready."
 msgstr ""
+"Ale teď mě omluv. Potřebuji absolutní klid na přípravu rituálu. Zavolám tě, "
+"až bude vše připravené."
 
 #. [message]: speaker=narrator
 #: The_Memories/scenarios/06_The_Ritual.cfg:152
@@ -1389,7 +1414,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/07_The_Memories.cfg:85
 msgid "Excellent. I am coming to you."
-msgstr ""
+msgstr "Výborně, jdu k Vám."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/07_The_Memories.cfg:90
