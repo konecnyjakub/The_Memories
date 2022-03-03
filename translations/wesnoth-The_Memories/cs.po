@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Memories-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-27 14:22 UTC\n"
-"PO-Revision-Date: 2022-02-27 18:03+0100\n"
+"POT-Creation-Date: 2022-03-03 18:52 UTC\n"
+"PO-Revision-Date: 2022-03-03 19:54+0100\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -31,8 +31,8 @@ msgstr "Elfí čarodějka"
 
 #. [campaign]: id=The_Memories
 #: The_Memories/_main.cfg:14
-msgid "Normal"
-msgstr "Normální"
+msgid "Easy"
+msgstr "Lehká"
 
 #. [campaign]: id=The_Memories
 #: The_Memories/_main.cfg:16
@@ -1562,3 +1562,6 @@ msgstr "Ne, bez ní si na nic nevzpomenu!"
 #: The_Memories/utils/deaths.cfg:142
 msgid "Farewell, $unit.name. I will miss you."
 msgstr "Sbohem, $unit.name. Budeš mi chybět."
+
+#~ msgid "Normal"
+#~ msgstr "Normální"

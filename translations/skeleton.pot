@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Memories-1.16\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2022-02-27 14:22 UTC\n"
+"POT-Creation-Date: 2022-03-03 18:52 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,7 +29,7 @@ msgstr ""
 
 #. [campaign]: id=The_Memories
 #: The_Memories/_main.cfg:14
-msgid "Normal"
+msgid "Easy"
 msgstr ""
 
 #. [campaign]: id=The_Memories
