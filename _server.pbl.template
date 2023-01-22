@@ -9,3 +9,11 @@ email="jakub.konecny2@centrum.cz"
 type="campaign"
 version="XXX"
 tags=elves,forest,lost memories,female protagonist,mage protagonist,quest,rpg
+[translation]
+    language="cs"
+    title="Vzpomínky"
+    description="Právě jsi ztratila všechny své vzpomínky. Vydej se je hledat. Ale dokážeš s nimi žít?
+    
+Tažení pro začátečníky, nedokončené (8 hratelných scénářů)
+git repositář: https://github.com/konecnyjakub/The_Memories"
+[/translation]
