@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2023-02-26 10:33 UTC\n"
-"PO-Revision-Date: 2023-02-26 11:45+0100\n"
+"PO-Revision-Date: 2023-02-26 16:50+0100\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -595,7 +595,7 @@ msgstr "To byl poslední."
 msgid ""
 "Thank you for your assistance. Now tell me what can I help you with, "
 "Elrilindë."
-msgstr ""
+msgstr "Děkuji za vaši pomoc. Teď mi řekni, s čím ti můžu pomoct, Elrilindë."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/03_The_Sylph.cfg:217
@@ -637,7 +637,7 @@ msgstr ""
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:255
 msgid "You can't handle few enemies. You don't deserve my help."
-msgstr "Nedokážeš si poradit s pár nepřátele. Nezasloužíš si mou pomoc."
+msgstr "Nedokážeš si poradit s pár nepřáteli. Nezasloužíš si mou pomoc."
 
 #. [message]: speaker=second_unit
 #: The_Memories/scenarios/03_The_Sylph.cfg:268
@@ -702,7 +702,7 @@ msgstr ""
 #. [object]: id=bow_of_sarelias
 #: The_Memories/scenarios/04a_The_Leaf.cfg:68
 msgid "Bow of Sarelias"
-msgstr ""
+msgstr "Sareliasův luk"
 
 #. [object]: id=bow_of_sarelias
 #: The_Memories/scenarios/04a_The_Leaf.cfg:70
@@ -719,7 +719,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04a_The_Leaf.cfg:103
 msgid "Do you have any idea what could be here, Gioniel?"
-msgstr ""
+msgstr "Máš nějakou představu, co by tady mohlo být, Gioniel?"
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04a_The_Leaf.cfg:107
@@ -732,7 +732,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04a_The_Leaf.cfg:111
 msgid "And what are those humans like?"
-msgstr ""
+msgstr "A jací jsou tamti lidé?"
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04a_The_Leaf.cfg:115
@@ -780,7 +780,7 @@ msgstr ""
 #. [object]: id=shield_of_triewin
 #: The_Memories/scenarios/04b_The_Fruit.cfg:66
 msgid "Shield of Triewin"
-msgstr ""
+msgstr "Triewinův štít"
 
 #. [object]: id=shield_of_triewin
 #: The_Memories/scenarios/04b_The_Fruit.cfg:68
@@ -1053,7 +1053,7 @@ msgstr "Nemáte za co."
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04d_The_Heart.cfg:199
 msgid "But I have to continue at my own now. Wait for me here."
-msgstr ""
+msgstr "Ale teď už musím pokračovat sama. Počkej tady na mne."
 
 #. [message]: speaker=spirit5
 #: The_Memories/scenarios/04d_The_Heart.cfg:214
@@ -1065,6 +1065,8 @@ msgstr "Proč jsi na tomto posvátném místě?"
 msgid ""
 "I lost all my memories and I need the bark of the Heart to recover them."
 msgstr ""
+"Ztratila jsem všechny své vzpomínky a potřebuji kůru Srdce, abych je získala "
+"zpět."
 
 #. [message]: speaker=spirit1
 #: The_Memories/scenarios/04d_The_Heart.cfg:222
@@ -1074,12 +1076,12 @@ msgstr "Srdce je velmi staré a také velmi posvátné."
 #. [message]: speaker=spirit2
 #: The_Memories/scenarios/04d_The_Heart.cfg:226
 msgid "Only an elf with pure heart is allowed to <b>touch</b> it."
-msgstr ""
+msgstr "Pouze elf s čistým srdcem se jej smí <b>dotknout</b>."
 
 #. [message]: speaker=spirit3
 #: The_Memories/scenarios/04d_The_Heart.cfg:230
 msgid "You may be a defender of this forest but your heart is filthy!"
-msgstr ""
+msgstr "Možná jsi ochráncem tohoto lesa, ale tvé srdce je odporné!"
 
 #. [message]: speaker=spirit4
 #: The_Memories/scenarios/04d_The_Heart.cfg:234
@@ -1108,7 +1110,7 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04d_The_Heart.cfg:287
 msgid "It was the last one. All right, now the bark."
-msgstr ""
+msgstr "To byl poslední. Dobrá, teď kůra."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04d_The_Heart.cfg:331
@@ -1141,12 +1143,12 @@ msgstr ""
 #. [scenario]: id=05_Back_with_Sylph
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:5
 msgid "Back with Sylph"
-msgstr ""
+msgstr "Zpět se Sylfou"
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:89
 msgid "You have returned. Do you have the leaf with you?"
-msgstr ""
+msgstr "Vrátila jsi se. Máš sebou ten list?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:94
@@ -1272,17 +1274,19 @@ msgid ""
 "There is a tree. It is older than all trees in this forest. This is the "
 "heart of this forest itself. And you have to get its bark."
 msgstr ""
+"Je jeden strom, starší než všechny stromy v tomto lese. Je to samotné srdce "
+"tohoto lesa. A ty musíš získat jeho kůru."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:188
 msgid "What?! Do you want me to damage it?"
-msgstr ""
+msgstr "Cože?!? Chcete, abych jej poškodila?"
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:192
 msgid ""
 "Its bark is necessary in order to recover your memories. It can't be avoided."
-msgstr ""
+msgstr "Jeho kůra je nezbytná k obnovení tvých vzpomínek. Jinak to nejde."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:196
@@ -1306,7 +1310,7 @@ msgstr ""
 msgid ""
 "I am sorry about it but as far as I know there is no other way. But if you "
 "don't like it ..."
-msgstr ""
+msgstr "Je mi líto, ale o jiném způsobu nevím. Ale jestli se ti to nelíbí ..."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:212
@@ -1326,7 +1330,7 @@ msgstr "Zabij Rhaemyra"
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/06_The_Ritual.cfg:118
 msgid "You have returned. Do you have the bark of the Heart with you?"
-msgstr ""
+msgstr "Vrátila jsi se. Máš sebou kůru Srdce?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/06_The_Ritual.cfg:123
@@ -1385,12 +1389,12 @@ msgstr "Co tady chcete, lidé?"
 #. [message]: speaker=enemy
 #: The_Memories/scenarios/06_The_Ritual.cfg:180
 msgid "I am looking for a sylph. She could live here."
-msgstr ""
+msgstr "Hledám nějakou sylfu. Měla by žít tady."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/06_The_Ritual.cfg:184
 msgid "Yes, she lives here but why do you need to see her?"
-msgstr ""
+msgstr "Ano, žije tady, ale proč ji potřebuješ vidět?"
 
 #. [message]: speaker=enemy
 #: The_Memories/scenarios/06_The_Ritual.cfg:188
