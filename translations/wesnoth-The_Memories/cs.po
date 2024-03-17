@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-02-26 10:33 UTC\n"
-"PO-Revision-Date: 2023-02-26 16:50+0100\n"
+"POT-Creation-Date: 2024-03-17 15:23 UTC\n"
+"PO-Revision-Date: 2024-03-17 16:26+0100\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
-"X-Generator: Poedit 3.2.2\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #. [campaign]: id=The_Memories
 #. [achievement_group]
@@ -157,9 +157,10 @@ msgstr "Začátek"
 #. [side]: type=Elrilinde Elvish Sorceress # only sprite is different, i like the older one more, id=Elrilinde
 #. [side]: type=Elvish Captain, id=Tendriel
 #. [side]: type=Elrilinde Elvish Sorceress, id=Elrilinde
+#. [side]: type=Elrilinde Elvish Enchantress, id=Elrilinde
 #: The_Memories/scenarios/01_The_Begining.cfg:16
 #: The_Memories/scenarios/01_The_Begining.cfg:36
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:58
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:46
 #: The_Memories/scenarios/03_The_Sylph.cfg:29
 #: The_Memories/scenarios/04a_The_Leaf.cfg:20
 #: The_Memories/scenarios/04b_The_Fruit.cfg:18
@@ -168,13 +169,16 @@ msgstr "Začátek"
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:17
 #: The_Memories/scenarios/06_The_Ritual.cfg:30
 #: The_Memories/scenarios/07_The_Memories.cfg:16
+#: The_Memories/scenarios/08_Remorse.cfg:18
+#: The_Memories/scenarios/08_Remorse.cfg:34
 msgid "Elves"
 msgstr "Elfové"
 
 #. [side]: type=Elrilinde Elvish Sorceress # only sprite is different, i like the older one more, id=Elrilinde
 #. [side]: type=Elrilinde Elvish Sorceress, id=Elrilinde
+#. [side]: type=Elrilinde Elvish Enchantress, id=Elrilinde
 #: The_Memories/scenarios/01_The_Begining.cfg:21
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:63
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:51
 #: The_Memories/scenarios/03_The_Sylph.cfg:34
 #: The_Memories/scenarios/04a_The_Leaf.cfg:25
 #: The_Memories/scenarios/04b_The_Fruit.cfg:23
@@ -183,11 +187,13 @@ msgstr "Elfové"
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:21
 #: The_Memories/scenarios/06_The_Ritual.cfg:34
 #: The_Memories/scenarios/07_The_Memories.cfg:20
+#: The_Memories/scenarios/08_Remorse.cfg:23
 msgid "Elrilindë"
 msgstr "Elrilindë"
 
 #. [side]: type=Elvish Captain, id=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:41
+#: The_Memories/scenarios/08_Remorse.cfg:39
 msgid "Tendriel"
 msgstr "Tendriel"
 
@@ -423,7 +429,7 @@ msgstr "Děkuji ti ... předpokládám, že bych měla hned vyrazit. Takže sboh
 msgid "Have a safe journey."
 msgstr "Přeji Vám bezpečnou cestu."
 
-#. [unit]: type=Elvish Ranger, id=guide
+#. [unit]: type=Elvish Ranger, id=guide, gender=female
 #: The_Memories/scenarios/01_The_Begining.cfg:318
 msgid "Gioniel"
 msgstr "Gioniel"
@@ -448,29 +454,29 @@ msgid "I can see more humans coming. We are doomed."
 msgstr "Vidím přicházet více lidí. Jsme ztraceni."
 
 #. [scenario]: id=02_Seeking_the_sylph
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:45
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:33
 msgid "Seeking the Sylph"
 msgstr "Hledání Sylfy"
 
 #. [side]
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:74
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:62
 #: The_Memories/scenarios/04a_The_Leaf.cfg:36
 #: The_Memories/scenarios/04b_The_Fruit.cfg:34
 msgid "Wild animals"
 msgstr "Divoká zvířata"
 
 #. [objective]: condition=win
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:92
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:80
 msgid "Find the Sylph"
 msgstr "Najdi Sylfu"
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:119
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:107
 msgid "Do you have any idea where could the Sylph live, Gioniel?"
 msgstr "Máš nějakou představa, kde by Sylfa mohla žít, Gioniel?"
 
 #. [message]: speaker=guide
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:123
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:111
 msgid ""
 "I am not sure, milady. By the tales she could live in the west but nobody of "
 "our people saw her for decades nor we have heard about her. I wonder if she "
@@ -481,7 +487,7 @@ msgstr ""
 "Přemýšlím, jestli stále žije ..."
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:127
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:115
 msgid ""
 "She probably is ... she must be. Well, we will find it out soon. Let us head "
 "to the west."
@@ -489,7 +495,7 @@ msgstr ""
 "Nejspíš ano ... musí. No, v každém případě to brzy zjistíme. Pojďme na západ."
 
 #. [message]: speaker=guide
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:131
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:119
 msgid ""
 "As you say. Well, I have been often to this place and I must warn you that "
 "there are some wild animals here but you do not need to worry, milady. We "
@@ -497,12 +503,12 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:145
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:133
 msgid "I can feel very strong magic here. It may be the Sylph."
 msgstr "Cítím tady velmi silnou magii. Mohla by to být Sylfa."
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:154
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:142
 #: The_Memories/scenarios/04a_The_Leaf.cfg:203
 #: The_Memories/scenarios/04b_The_Fruit.cfg:193
 #: The_Memories/scenarios/04c_The_Vase.cfg:174
@@ -1568,6 +1574,82 @@ msgstr "Co se děje?"
 #: The_Memories/scenarios/07_The_Memories.cfg:128
 msgid "I ... I need to go."
 msgstr "Já ... musím jít."
+
+#. [scenario]: id=08_Remorse
+#: The_Memories/scenarios/08_Remorse.cfg:5
+msgid "Remorse"
+msgstr "Výčitky svědomí"
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:68
+msgid "Ah, here you are, milady. I have been looking for you everywhere."
+msgstr "Á, tady jste, milostivá paní. Všude jsem Vás hledal."
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:72
+msgid "... Tendriel? What are you doing here?"
+msgstr "... Tendrieli? Co tady děláš?"
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:76
+msgid ""
+"The Sylph told us that you ran away after the ritual. I was worried about "
+"you. Are you alright?"
+msgstr ""
+"Sylfa nám řekla, že jste po rituálu  utekl. Dělal jsem si o Vás? Jste v "
+"pořádku?"
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:80
+msgid ""
+"I ... Why are you being nice to me, Tendriel? I have been very mean to you, "
+"especially after you confessed your feelings to me. Well, not just to you, "
+"to everyone. I am a horrible person."
+msgstr ""
+"Já ... Proč jsi na mne tak milý, Tendrieli? Byla jsem na tebe velmi zlá, "
+"obzvláště po té, co jsi mi vyznal své pocity. Tedy, nejen k tobě, ke všem. "
+"Jsem hrozný člověk."
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:84
+msgid ""
+"With all due respect, milady, no, you are not. Not anymore. I can see the "
+"change in you, you have been kind to everyone in the last few days."
+msgstr ""
+"Se vší úctou, milostivá paní, ne, nejste. Vidím, jak jste se změnila, jak "
+"jste byla v posledních dnech ke všem milá."
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:88
+msgid ""
+"You are forgiving me? Just like that? I should do something to earn your "
+"forgiveness."
+msgstr ""
+"Ty mi odpouštíš? Jen tak? Měla bych něco udělat, abych si zasloužila tvé "
+"odpuštění."
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:92
+msgid ""
+"You are just proving how much you have changed, your previous self would "
+"never even entertain that idea. But if you want to do something, we are "
+"going to look for the sorceress who stole your memory and caused the chaos "
+"in the human city. We could use your help."
+msgstr ""
+"Jen dokazujete, jak moc jste se změnila. Vaše předchozí já by o něčem "
+"takovém ani nepřemýšlelo. Ale pokud chcete něco udělat, chystáme se hledat "
+"tu čarodějku, která Vám ukradla vzpomínky a způsobila chaos v lidském město "
+"Hodila by se nám Vaše pomoc."
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:96
+msgid "I will help in any way I can."
+msgstr "Pomohu jakkoliv budu moct."
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:100
+msgid "Excellent. Our people are getting ready, we should join them."
+msgstr "Výborně. Naši lidé se připravují, měli bychom se k nim přidat."
 
 #. [advancement]: id=melee
 #: The_Memories/units/Sylph.cfg:167

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2023-02-26 10:33 UTC\n"
+"POT-Creation-Date: 2024-03-17 15:23 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -145,9 +145,10 @@ msgstr ""
 #. [side]: type=Elrilinde Elvish Sorceress # only sprite is different, i like the older one more, id=Elrilinde
 #. [side]: type=Elvish Captain, id=Tendriel
 #. [side]: type=Elrilinde Elvish Sorceress, id=Elrilinde
+#. [side]: type=Elrilinde Elvish Enchantress, id=Elrilinde
 #: The_Memories/scenarios/01_The_Begining.cfg:16
 #: The_Memories/scenarios/01_The_Begining.cfg:36
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:58
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:46
 #: The_Memories/scenarios/03_The_Sylph.cfg:29
 #: The_Memories/scenarios/04a_The_Leaf.cfg:20
 #: The_Memories/scenarios/04b_The_Fruit.cfg:18
@@ -156,13 +157,16 @@ msgstr ""
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:17
 #: The_Memories/scenarios/06_The_Ritual.cfg:30
 #: The_Memories/scenarios/07_The_Memories.cfg:16
+#: The_Memories/scenarios/08_Remorse.cfg:18
+#: The_Memories/scenarios/08_Remorse.cfg:34
 msgid "Elves"
 msgstr ""
 
 #. [side]: type=Elrilinde Elvish Sorceress # only sprite is different, i like the older one more, id=Elrilinde
 #. [side]: type=Elrilinde Elvish Sorceress, id=Elrilinde
+#. [side]: type=Elrilinde Elvish Enchantress, id=Elrilinde
 #: The_Memories/scenarios/01_The_Begining.cfg:21
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:63
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:51
 #: The_Memories/scenarios/03_The_Sylph.cfg:34
 #: The_Memories/scenarios/04a_The_Leaf.cfg:25
 #: The_Memories/scenarios/04b_The_Fruit.cfg:23
@@ -171,11 +175,13 @@ msgstr ""
 #: The_Memories/scenarios/05_Back_with_Sylph.cfg:21
 #: The_Memories/scenarios/06_The_Ritual.cfg:34
 #: The_Memories/scenarios/07_The_Memories.cfg:20
+#: The_Memories/scenarios/08_Remorse.cfg:23
 msgid "Elrilindë"
 msgstr ""
 
 #. [side]: type=Elvish Captain, id=Tendriel
 #: The_Memories/scenarios/01_The_Begining.cfg:41
+#: The_Memories/scenarios/08_Remorse.cfg:39
 msgid "Tendriel"
 msgstr ""
 
@@ -351,7 +357,7 @@ msgstr ""
 msgid "Have a safe journey."
 msgstr ""
 
-#. [unit]: type=Elvish Ranger, id=guide
+#. [unit]: type=Elvish Ranger, id=guide, gender=female
 #: The_Memories/scenarios/01_The_Begining.cfg:318
 msgid "Gioniel"
 msgstr ""
@@ -372,49 +378,49 @@ msgid "I can see more humans coming. We are doomed."
 msgstr ""
 
 #. [scenario]: id=02_Seeking_the_sylph
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:45
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:33
 msgid "Seeking the Sylph"
 msgstr ""
 
 #. [side]
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:74
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:62
 #: The_Memories/scenarios/04a_The_Leaf.cfg:36
 #: The_Memories/scenarios/04b_The_Fruit.cfg:34
 msgid "Wild animals"
 msgstr ""
 
 #. [objective]: condition=win
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:92
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:80
 msgid "Find the Sylph"
 msgstr ""
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:119
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:107
 msgid "Do you have any idea where could the Sylph live, Gioniel?"
 msgstr ""
 
 #. [message]: speaker=guide
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:123
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:111
 msgid "I am not sure, milady. By the tales she could live in the west but nobody of our people saw her for decades nor we have heard about her. I wonder if she is still alive ..."
 msgstr ""
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:127
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:115
 msgid "She probably is ... she must be. Well, we will find it out soon. Let us head to the west."
 msgstr ""
 
 #. [message]: speaker=guide
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:131
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:119
 msgid "As you say. Well, I have been often to this place and I must warn you that there are some wild animals here but you do not need to worry, milady. We will protect you if they dare to attack us."
 msgstr ""
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:145
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:133
 msgid "I can feel very strong magic here. It may be the Sylph."
 msgstr ""
 
 #. [message]: speaker=Elrilinde
-#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:154
+#: The_Memories/scenarios/02_Seeking_the_sylph.cfg:142
 #: The_Memories/scenarios/04a_The_Leaf.cfg:203
 #: The_Memories/scenarios/04b_The_Fruit.cfg:193
 #: The_Memories/scenarios/04c_The_Vase.cfg:174
@@ -1374,6 +1380,56 @@ msgstr ""
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/07_The_Memories.cfg:128
 msgid "I ... I need to go."
+msgstr ""
+
+#. [scenario]: id=08_Remorse
+#: The_Memories/scenarios/08_Remorse.cfg:5
+msgid "Remorse"
+msgstr ""
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:68
+msgid "Ah, here you are, milady. I have been looking for you everywhere."
+msgstr ""
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:72
+msgid "... Tendriel? What are you doing here?"
+msgstr ""
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:76
+msgid "The Sylph told us that you ran away after the ritual. I was worried about you. Are you alright?"
+msgstr ""
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:80
+msgid "I ... Why are you being nice to me, Tendriel? I have been very mean to you, especially after you confessed your feelings to me. Well, not just to you, to everyone. I am a horrible person."
+msgstr ""
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:84
+msgid "With all due respect, milady, no, you are not. Not anymore. I can see the change in you, you have been kind to everyone in the last few days."
+msgstr ""
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:88
+msgid "You are forgiving me? Just like that? I should do something to earn your forgiveness."
+msgstr ""
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:92
+msgid "You are just proving how much you have changed, your previous self would never even entertain that idea. But if you want to do something, we are going to look for the sorceress who stole your memory and caused the chaos in the human city. We could use your help."
+msgstr ""
+
+#. [message]: speaker=Elrilinde
+#: The_Memories/scenarios/08_Remorse.cfg:96
+msgid "I will help in any way I can."
+msgstr ""
+
+#. [message]: speaker=Tendriel
+#: The_Memories/scenarios/08_Remorse.cfg:100
+msgid "Excellent. Our people are getting ready, we should join them."
 msgstr ""
 
 #. [advancement]: id=melee
