@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-03-17 15:23 UTC\n"
-"PO-Revision-Date: 2024-03-17 16:26+0100\n"
+"PO-Revision-Date: 2024-04-14 21:28+0200\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -24,7 +24,7 @@ msgstr "Vzpomínky"
 #. [campaign]: id=The_Memories
 #: The_Memories/_main.cfg:12
 msgid "TM"
-msgstr ""
+msgstr "V"
 
 #. [campaign]: id=The_Memories
 #: The_Memories/_main.cfg:14
@@ -665,7 +665,7 @@ msgstr ""
 msgid ""
 "Now nobody can stop these fools. They will destroy everything what we elves "
 "love."
-msgstr ""
+msgstr "Teď už ty blázny nikdo nezastaví. Zničí vše, co my elfové milujeme."
 
 #. [scenario]: id=04a_The_Leaf
 #: The_Memories/scenarios/04a_The_Leaf.cfg:7
@@ -776,7 +776,7 @@ msgstr ""
 #. [scenario]: id=04b_The_Fruit
 #: The_Memories/scenarios/04b_The_Fruit.cfg:60
 msgid "$unit.name finds a pretty shield. Should he pick it up?"
-msgstr ""
+msgstr "$unit.name našel pěkný štít. Má ho sebrat?"
 
 #. [scenario]: id=04b_The_Fruit
 #: The_Memories/scenarios/04b_The_Fruit.cfg:63
@@ -813,7 +813,7 @@ msgstr ""
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04b_The_Fruit.cfg:111
 msgid "Not at all. You do not need to worry, milady."
-msgstr ""
+msgstr "Vůbec ne. Nemusíte si dělat starosti, milostivá paní."
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04b_The_Fruit.cfg:111
@@ -970,7 +970,7 @@ msgstr ""
 #. [message]: speaker=druid
 #: The_Memories/scenarios/04c_The_Vase.cfg:411
 msgid "Yes, everything is all right."
-msgstr ""
+msgstr "Ano, vše je v pořádku."
 
 #. [unit]: type=Ghost, id={ID}
 #: The_Memories/scenarios/04d_The_Heart.cfg:10
@@ -995,7 +995,7 @@ msgstr "Srdce lesa"
 #. [objective]: condition=win
 #: The_Memories/scenarios/04d_The_Heart.cfg:108
 msgid "Banish five spirits of the forest"
-msgstr ""
+msgstr "Vyžeň pět duchů lesa"
 
 #. [objective]: condition=lose
 #: The_Memories/scenarios/04d_The_Heart.cfg:112 The_Memories/utils/deaths.cfg:5
@@ -1005,27 +1005,27 @@ msgstr "Elrilindë zemře"
 #. [note]
 #: The_Memories/scenarios/04d_The_Heart.cfg:117
 msgid "Only the heroine can hit the spirits and only with a ranged attack."
-msgstr ""
+msgstr "Pouze hrdinka může zasáhnout duchy, a to pouze útokem na dálku."
 
 #. [scenario]: id=04d_The_Heart
 #: The_Memories/scenarios/04d_The_Heart.cfg:147
 msgid "$unit.name finds a pretty staff. Should she pick it up?"
-msgstr ""
+msgstr "$unit.name našla pěknou hůl. Má ji sebrat?"
 
 #. [scenario]: id=04d_The_Heart
 #: The_Memories/scenarios/04d_The_Heart.cfg:150
 msgid "$unit.name finds a pretty staff. But only Elrilindë can take it!"
-msgstr ""
+msgstr "$unit.name našla pěknou hůl. Ale jen Elrilindë ji může sebrat!"
 
 #. [object]: id=staff_of_elvil_gawien
 #: The_Memories/scenarios/04d_The_Heart.cfg:153
 msgid "Staff of Elvil-Gawien"
-msgstr ""
+msgstr "Hůl Elvil-Gawien"
 
 #. [object]: id=staff_of_elvil_gawien
 #: The_Memories/scenarios/04d_The_Heart.cfg:155
 msgid "This staff grants the wearer swift movement!"
-msgstr ""
+msgstr "Tato hůl poskytuje svému nositeli rychlý pohyb!"
 
 #. [message]: speaker=guide
 #: The_Memories/scenarios/04d_The_Heart.cfg:169
@@ -1456,7 +1456,7 @@ msgstr ""
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/06_The_Ritual.cfg:267
 msgid "What did happen here? I heard some noise."
-msgstr ""
+msgstr "Co se tady stalo? Slyšela jsem nějaký hluk?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/06_The_Ritual.cfg:271
@@ -1696,7 +1696,7 @@ msgstr "rychlejší"
 #. [advancement]: id=movement2
 #: The_Memories/units/Sylph.cfg:347
 msgid "more dextrous (2% better defenses on all terrains)"
-msgstr ""
+msgstr "obratnější (o 2% lepší obrana na všech terénech)"
 
 #. [objective]: condition=lose
 #: The_Memories/utils/deaths.cfg:9
