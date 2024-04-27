@@ -1,25 +1,24 @@
 # Project Management
-/.github/                                   @konecnyjakub
-/README.md                                  @konecnyjakub
-/COPYING.txt                                @konecnyjakub
-.gitignore                                  @konecnyjakub
+/.github/                                   	@konecnyjakub
+/README.md                                  	@konecnyjakub
+/COPYING.txt                                	@konecnyjakub
+.gitignore                                  	@konecnyjakub
 
 # Release Management
-/_server.pbl.template                       @konecnyjakub
-/changelog.md                               @konecnyjakub
-/dist/                                      @konecnyjakub      
-/_server.ign                                @konecnyjakub
-.gitattributes                              @konecnyjakub
+/_server.pbl					@konecnyjakub
+/changelog.md                               	@konecnyjakub
+/dist/                                      	@konecnyjakub
+.gitattributes                              	@konecnyjakub
 
 # Continous integration/deployment
-/.gitlab-ci.yml                             @konecnyjakub
+/.gitlab-ci.yml                             	@konecnyjakub
 
 # Translations
-/translations/skeleton.pot                  @konecnyjakub
-/translations/wesnoth-The_Memories/cs.po    @konecnyjakub
+/translations/skeleton.pot                  	@konecnyjakub
+/translations/wesnoth-The_Memories/cs.po    	@konecnyjakub
 
 # WML
-*.cfg                                       @konecnyjakub
+*.cfg                                       	@konecnyjakub
 
 # Maps
-*.map                                       @konecnyjakub
+*.map                                       	@konecnyjakub
