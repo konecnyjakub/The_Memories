@@ -7,6 +7,7 @@ stages:
   
   script:
     - wmllint --dryrun /usr/share/games/wesnoth/data/core .
+    - wmlindent --dryrun .
 
 .publish_job: &publish_job
   stage: publish
