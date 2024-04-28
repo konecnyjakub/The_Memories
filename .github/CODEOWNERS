@@ -14,7 +14,7 @@
 /.gitlab-ci.yml                             	@konecnyjakub
 
 # Translations
-/translations/skeleton.pot                  	@konecnyjakub
+/translations/wesnoth-The_Memories.pot		@konecnyjakub
 /translations/wesnoth-The_Memories/cs.po    	@konecnyjakub
 
 # WML

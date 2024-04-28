@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-03-17 15:23 UTC\n"
+"POT-Creation-Date: 2024-04-28 10:52 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,7 +48,7 @@ msgid "Version:"
 msgstr ""
 
 #. [about]
-#: The_Memories/_main.cfg:22
+#: The_Memories/_main.cfg:23
 msgid "Campaign Design"
 msgstr ""
 
@@ -1433,52 +1433,44 @@ msgid "Excellent. Our people are getting ready, we should join them."
 msgstr ""
 
 #. [advancement]: id=melee
-#: The_Memories/units/Sylph.cfg:167
+#: The_Memories/units/Sylph.cfg:177
 msgid "better at melee combat"
 msgstr ""
 
-#. [advancement]: id=melee2
-#: The_Memories/units/Sylph.cfg:181
+#. [advancement]: id=melee_speed
+#: The_Memories/units/Sylph.cfg:191
 msgid "faster at melee combat"
 msgstr ""
 
 #. [advancement]: id=web
-#: The_Memories/units/Sylph.cfg:196
+#: The_Memories/units/Sylph.cfg:206
 msgid "better with spiderwebs"
 msgstr ""
 
-#. [advancement]: id=web2
-#: The_Memories/units/Sylph.cfg:210
+#. [advancement]: id=web_speed
+#: The_Memories/units/Sylph.cfg:220
 msgid "faster with spiderwebs"
 msgstr ""
 
-#. [advancement]: id=faerie1
-#. [advancement]: id=faerie3
-#. [advancement]: id=faerie4
-#. [advancement]: id=faerie5
-#: The_Memories/units/Sylph.cfg:226
-#: The_Memories/units/Sylph.cfg:257
-#: The_Memories/units/Sylph.cfg:288
-#: The_Memories/units/Sylph.cfg:303
+#. [advancement]: id=faerie
+#: The_Memories/units/Sylph.cfg:236
 msgid "causing more havoc with faerie fire"
 msgstr ""
 
-#. [advancement]: id=faerie2
-#. [advancement]: id=faerie3_speed
-#. [advancement]: id=faerie5_speed
-#: The_Memories/units/Sylph.cfg:241
-#: The_Memories/units/Sylph.cfg:272
-#: The_Memories/units/Sylph.cfg:318
+#. [advancement]: id=faerie_speed
+#. [advancement]: id=faerie_speed2
+#: The_Memories/units/Sylph.cfg:251
+#: The_Memories/units/Sylph.cfg:267
 msgid "faster with faerie fire"
 msgstr ""
 
 #. [advancement]: id=movement
-#: The_Memories/units/Sylph.cfg:333
+#: The_Memories/units/Sylph.cfg:282
 msgid "faster"
 msgstr ""
 
 #. [advancement]: id=movement2
-#: The_Memories/units/Sylph.cfg:347
+#: The_Memories/units/Sylph.cfg:296
 msgid "more dextrous (2% better defenses on all terrains)"
 msgstr ""
 
