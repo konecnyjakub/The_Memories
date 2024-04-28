@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-03-17 15:23 UTC\n"
-"PO-Revision-Date: 2024-04-14 21:28+0200\n"
+"POT-Creation-Date: 2024-04-28 10:52 UTC\n"
+"PO-Revision-Date: 2024-04-28 15:50+0200\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -58,7 +58,7 @@ msgid "Version:"
 msgstr "Verze:"
 
 #. [about]
-#: The_Memories/_main.cfg:22
+#: The_Memories/_main.cfg:23
 msgid "Campaign Design"
 msgstr "Návrh tažení"
 
@@ -557,6 +557,7 @@ msgstr "Někoho vidím. Mohla by to být Sylfa?"
 #: The_Memories/scenarios/03_The_Sylph.cfg:146
 msgid "Yes, it is her ... I am so excited. No elf saw her for decades."
 msgstr ""
+"Ano, to je ona ... jsem tak nadšená. Žádný elf ji neviděl celá desetiletí."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:150
@@ -589,7 +590,7 @@ msgstr "Samozřejmě Vám pomůžeme. Všichni chceme chránit les."
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:166
 msgid "Excellent. Let us crush them then."
-msgstr ""
+msgstr "Výborně, pojďme je tedy rozdrtit."
 
 #. [message]: speaker=unit
 #: The_Memories/scenarios/03_The_Sylph.cfg:208
@@ -626,6 +627,8 @@ msgid ""
 "Of course I can. There is nobody more powerful here. Alas I need some items "
 "for this spell."
 msgstr ""
+"Samozřejmě že ano, široko daleko není nikdo mocnější. Budu však potřebovat "
+"nějaké předměty k tomuto kouzlu."
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/03_The_Sylph.cfg:233
@@ -648,12 +651,12 @@ msgstr "Nedokážeš si poradit s pár nepřáteli. Nezasloužíš si mou pomoc.
 #. [message]: speaker=second_unit
 #: The_Memories/scenarios/03_The_Sylph.cfg:268
 msgid "Only a fool would dare to attack me!"
-msgstr ""
+msgstr "Jen blázen by se odvážil na mne zaútočit!"
 
 #. [message]: speaker=unit
 #: The_Memories/scenarios/03_The_Sylph.cfg:279
 msgid "Taste Nature's fury!"
-msgstr ""
+msgstr "Pociť hněv přírody!"
 
 #. [message]: speaker=second_unit
 #: The_Memories/scenarios/03_The_Sylph.cfg:290
@@ -734,6 +737,8 @@ msgid ""
 "know is that this is the north edge of the forest. Farther to the north are "
 "lands of the man."
 msgstr ""
+"Je mi líto, milostivá paní, tuto část lesy jsem nikdy nenavštívila. Jediné, "
+"co vím, je, že toto je severní okraj lesa. Dále na sever jsou země lidí."
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04a_The_Leaf.cfg:111
@@ -751,6 +756,8 @@ msgid ""
 "That is good to know, we have already enough on our plates. Well, so let us "
 "look for our plant."
 msgstr ""
+"To je dobré vědět, už tak toho máme dost. Tak se pojďme podívat po naší "
+"rostlině."
 
 #. [message]: speaker=unit
 #: The_Memories/scenarios/04a_The_Leaf.cfg:183
@@ -761,7 +768,7 @@ msgstr "Našel jsem tu rostlinu."
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04a_The_Leaf.cfg:187
 msgid "Very well. Let us take one leaf and go back to the Sylph."
-msgstr ""
+msgstr "Velmi dobře. Vezměme jeden list a vraťme se k Sylfě."
 
 #. [scenario]: id=04b_The_Fruit
 #: The_Memories/scenarios/04b_The_Fruit.cfg:5
@@ -791,7 +798,7 @@ msgstr "Triewinův štít"
 #. [object]: id=shield_of_triewin
 #: The_Memories/scenarios/04b_The_Fruit.cfg:68
 msgid "This shield grants the wearer 15 % better physical resistances!"
-msgstr ""
+msgstr "Tento štít poskytuje svému nositeli o 15 % lepší fyzickou odolnost!"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/04b_The_Fruit.cfg:99
@@ -1497,7 +1504,7 @@ msgstr ""
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/06_The_Ritual.cfg:319
 msgid "I thought I felt some intruders. Prepare to die!"
-msgstr ""
+msgstr "Zdálo se mi, že cítím nějaké vetřelce. Připravte se na smrt!"
 
 #. [message]: speaker=sylph
 #: The_Memories/scenarios/06_The_Ritual.cfg:342
@@ -1652,49 +1659,43 @@ msgid "Excellent. Our people are getting ready, we should join them."
 msgstr "Výborně. Naši lidé se připravují, měli bychom se k nim přidat."
 
 #. [advancement]: id=melee
-#: The_Memories/units/Sylph.cfg:167
+#: The_Memories/units/Sylph.cfg:177
 msgid "better at melee combat"
 msgstr "lepší v souboji na blízko"
 
-#. [advancement]: id=melee2
-#: The_Memories/units/Sylph.cfg:181
+#. [advancement]: id=melee_speed
+#: The_Memories/units/Sylph.cfg:191
 msgid "faster at melee combat"
 msgstr "rychlejší v souboji na blízko"
 
 #. [advancement]: id=web
-#: The_Memories/units/Sylph.cfg:196
+#: The_Memories/units/Sylph.cfg:206
 msgid "better with spiderwebs"
-msgstr ""
+msgstr "lepší s pavučinkou"
 
-#. [advancement]: id=web2
-#: The_Memories/units/Sylph.cfg:210
+#. [advancement]: id=web_speed
+#: The_Memories/units/Sylph.cfg:220
 msgid "faster with spiderwebs"
-msgstr ""
+msgstr "rychlejší s pavučinkou"
 
-#. [advancement]: id=faerie1
-#. [advancement]: id=faerie3
-#. [advancement]: id=faerie4
-#. [advancement]: id=faerie5
-#: The_Memories/units/Sylph.cfg:226 The_Memories/units/Sylph.cfg:257
-#: The_Memories/units/Sylph.cfg:288 The_Memories/units/Sylph.cfg:303
+#. [advancement]: id=faerie
+#: The_Memories/units/Sylph.cfg:236
 msgid "causing more havoc with faerie fire"
 msgstr "způsobující více škody s kouzelným ohňem"
 
-#. [advancement]: id=faerie2
-#. [advancement]: id=faerie3_speed
-#. [advancement]: id=faerie5_speed
-#: The_Memories/units/Sylph.cfg:241 The_Memories/units/Sylph.cfg:272
-#: The_Memories/units/Sylph.cfg:318
+#. [advancement]: id=faerie_speed
+#. [advancement]: id=faerie_speed2
+#: The_Memories/units/Sylph.cfg:251 The_Memories/units/Sylph.cfg:267
 msgid "faster with faerie fire"
 msgstr "rychlejší s kouzelným ohňem"
 
 #. [advancement]: id=movement
-#: The_Memories/units/Sylph.cfg:333
+#: The_Memories/units/Sylph.cfg:282
 msgid "faster"
 msgstr "rychlejší"
 
 #. [advancement]: id=movement2
-#: The_Memories/units/Sylph.cfg:347
+#: The_Memories/units/Sylph.cfg:296
 msgid "more dextrous (2% better defenses on all terrains)"
 msgstr "obratnější (o 2% lepší obrana na všech terénech)"
 
