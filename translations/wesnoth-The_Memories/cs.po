@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2024-04-28 10:52 UTC\n"
-"PO-Revision-Date: 2024-04-28 15:50+0200\n"
+"PO-Revision-Date: 2026-04-25 20:36+0200\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.9\n"
 
 #. [campaign]: id=The_Memories
 #. [achievement_group]
@@ -1603,8 +1603,8 @@ msgid ""
 "The Sylph told us that you ran away after the ritual. I was worried about "
 "you. Are you alright?"
 msgstr ""
-"Sylfa nám řekla, že jste po rituálu  utekl. Dělal jsem si o Vás? Jste v "
-"pořádku?"
+"Sylfa nám řekla, že jste po rituálu  utekla. Dělal jsem si o Vás starost. "
+"Jste v pořádku?"
 
 #. [message]: speaker=Elrilinde
 #: The_Memories/scenarios/08_Remorse.cfg:80
