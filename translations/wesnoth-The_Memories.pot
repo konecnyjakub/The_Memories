@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: The_Memories-1.18\n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-05-01 16:02 UTC\n"
+"POT-Creation-Date: 2026-05-01 16:49 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1443,34 +1443,44 @@ msgid "faster at melee combat"
 msgstr ""
 
 #. [advancement]: id=web
-#: The_Memories/units/Sylph.cfg:206
-msgid "better with spiderwebs"
+#: The_Memories/units/Sylph.cfg:207
+msgid "better with ethereal web"
+msgstr ""
+
+#. [advancement]: id=web
+#: The_Memories/units/Sylph.cfg:209
+msgid "better with gossamer"
 msgstr ""
 
 #. [advancement]: id=web_speed
-#: The_Memories/units/Sylph.cfg:220
-msgid "faster with spiderwebs"
+#: The_Memories/units/Sylph.cfg:225
+msgid "faster with ethereal web"
+msgstr ""
+
+#. [advancement]: id=web_speed
+#: The_Memories/units/Sylph.cfg:227
+msgid "faster with gossamer"
 msgstr ""
 
 #. [advancement]: id=faerie
-#: The_Memories/units/Sylph.cfg:236
+#: The_Memories/units/Sylph.cfg:244
 msgid "causing more havoc with faerie fire"
 msgstr ""
 
 #. [advancement]: id=faerie_speed
 #. [advancement]: id=faerie_speed2
-#: The_Memories/units/Sylph.cfg:251
-#: The_Memories/units/Sylph.cfg:267
+#: The_Memories/units/Sylph.cfg:259
+#: The_Memories/units/Sylph.cfg:275
 msgid "faster with faerie fire"
 msgstr ""
 
 #. [advancement]: id=movement
-#: The_Memories/units/Sylph.cfg:282
+#: The_Memories/units/Sylph.cfg:290
 msgid "faster"
 msgstr ""
 
 #. [advancement]: id=movement2
-#: The_Memories/units/Sylph.cfg:296
+#: The_Memories/units/Sylph.cfg:304
 msgid "more dextrous (2% better defenses on all terrains)"
 msgstr ""
 

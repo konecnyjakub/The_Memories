@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: The_Memories-1.18\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2026-05-01 16:02 UTC\n"
-"PO-Revision-Date: 2026-05-01 18:04+0200\n"
+"POT-Creation-Date: 2026-05-01 16:49 UTC\n"
+"PO-Revision-Date: 2026-05-01 18:50+0200\n"
 "Last-Translator: Jakub Konečný <jakub.konecny2@centrum.cz>\n"
 "Language-Team: \n"
 "Language: cs_CZ\n"
@@ -1669,33 +1669,43 @@ msgid "faster at melee combat"
 msgstr "rychlejší v souboji na blízko"
 
 #. [advancement]: id=web
-#: The_Memories/units/Sylph.cfg:206
-msgid "better with spiderwebs"
+#: The_Memories/units/Sylph.cfg:207
+msgid "better with ethereal web"
 msgstr "lepší s pavučinkou"
 
+#. [advancement]: id=web
+#: The_Memories/units/Sylph.cfg:209
+msgid "better with gossamer"
+msgstr "lepší s pavučinkou reality"
+
 #. [advancement]: id=web_speed
-#: The_Memories/units/Sylph.cfg:220
-msgid "faster with spiderwebs"
+#: The_Memories/units/Sylph.cfg:225
+msgid "faster with ethereal web"
 msgstr "rychlejší s pavučinkou"
 
+#. [advancement]: id=web_speed
+#: The_Memories/units/Sylph.cfg:227
+msgid "faster with gossamer"
+msgstr "rychlejší s pavučinkou reality"
+
 #. [advancement]: id=faerie
-#: The_Memories/units/Sylph.cfg:236
+#: The_Memories/units/Sylph.cfg:244
 msgid "causing more havoc with faerie fire"
 msgstr "způsobující více škody s kouzelným ohňem"
 
 #. [advancement]: id=faerie_speed
 #. [advancement]: id=faerie_speed2
-#: The_Memories/units/Sylph.cfg:251 The_Memories/units/Sylph.cfg:267
+#: The_Memories/units/Sylph.cfg:259 The_Memories/units/Sylph.cfg:275
 msgid "faster with faerie fire"
 msgstr "rychlejší s kouzelným ohňem"
 
 #. [advancement]: id=movement
-#: The_Memories/units/Sylph.cfg:282
+#: The_Memories/units/Sylph.cfg:290
 msgid "faster"
 msgstr "rychlejší"
 
 #. [advancement]: id=movement2
-#: The_Memories/units/Sylph.cfg:296
+#: The_Memories/units/Sylph.cfg:304
 msgid "more dextrous (2% better defenses on all terrains)"
 msgstr "obratnější (o 2% lepší obrana na všech terénech)"
 
